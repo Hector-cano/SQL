@@ -35,9 +35,9 @@
           <FullPath>02_CabecerasFacturas.sql</FullPath>
         </FileNode>
         <FileNode Name="04_PO_header_AGG_preguntas.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName>curso</AssociatedConnUserName>
           <FullPath>04_PO_header_AGG_preguntas.sql</FullPath>
         </FileNode>
         <FileNode Name="04_PO_header_AGG_soluciones.sql">
