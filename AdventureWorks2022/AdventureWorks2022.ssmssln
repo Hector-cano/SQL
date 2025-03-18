@@ -7,14 +7,20 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Basicos una tabla", "Basico
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Appol", "Appol\Appol.ssmssqlproj", "{DE2CB4EE-C07E-4315-BBF5-5725DC928464}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Join_two", "Join_two\Join_two.ssmssqlproj", "{5D8351C9-908C-4FB1-8CD3-B4570A04E8B9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Summarize_data_queries", "Summarize_data_queries\Summarize_data_queries.ssmssqlproj", "{8B21149B-328A-4337-A6E5-DDBEFFC0A981}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{97152F30-6263-4D45-945E-8B7CFD6D502A}.Default|Default.ActiveCfg = Default
-		{4F61D030-B12B-4057-B1B6-154CDF2A005C}.Default|Default.ActiveCfg = Default
 		{DE2CB4EE-C07E-4315-BBF5-5725DC928464}.Default|Default.ActiveCfg = Default
+		{FA1377F0-9294-4C2F-9450-54C9C7B3B595}.Default|Default.ActiveCfg = Default
+		{5D8351C9-908C-4FB1-8CD3-B4570A04E8B9}.Default|Default.ActiveCfg = Default
+		{8B21149B-328A-4337-A6E5-DDBEFFC0A981}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

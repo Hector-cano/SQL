@@ -22,23 +22,29 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="033_PO_header_soluciones.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>033_PO_header_soluciones.sql</FullPath>
+        </FileNode>
         <FileNode Name="Creaciondb.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName>curso</AssociatedConnUserName>
           <FullPath>Creaciondb.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQL_Excel_01.sql">
+        <FileNode Name="DB_Creation.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName>curso</AssociatedConnUserName>
-          <FullPath>SQL_Excel_01.sql</FullPath>
+          <FullPath>DB_Creation.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1.sql">
+        <FileNode Name="Query_Verification.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName>curso</AssociatedConnUserName>
-          <FullPath>SQLQuery1.sql</FullPath>
+          <FullPath>Query_Verification.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

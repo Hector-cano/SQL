@@ -4,12 +4,12 @@
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="(local):curso">
-          <Created>2025-03-13T11:06:27.8623184+01:00</Created>
+          <Created>2025-03-18T10:48:38.7633065+01:00</Created>
           <Type>SQL</Type>
           <Server>(local)</Server>
           <UserName>curso</UserName>
           <Authentication>SQL</Authentication>
-          <InitialDB>AdventureWorks2022</InitialDB>
+          <InitialDB>Appol</InitialDB>
           <LoginTimeout>30</LoginTimeout>
           <TrustServerCertificate>True</TrustServerCertificate>
           <HostNameInServerCertificate />
@@ -28,22 +28,22 @@
           <AssociatedConnUserName />
           <FullPath>01_Territorios.sql</FullPath>
         </FileNode>
-        <FileNode Name="02_CabecerasFacturas.sql">
+        <FileNode Name="02_Cabeceras_Facturas.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>02_CabecerasFacturas.sql</FullPath>
+          <FullPath>02_Cabeceras_Facturas.sql</FullPath>
         </FileNode>
         <FileNode Name="03_PO_header_preguntas.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
-          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
           <FullPath>03_PO_header_preguntas.sql</FullPath>
         </FileNode>
         <FileNode Name="03_PO_header_soluciones.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
-          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
           <FullPath>03_PO_header_soluciones.sql</FullPath>
         </FileNode>
         <FileNode Name="04_PO_header_AGG_Explicacion.sql">
@@ -53,9 +53,9 @@
           <FullPath>04_PO_header_AGG_Explicacion.sql</FullPath>
         </FileNode>
         <FileNode Name="04_PO_header_AGG_preguntas.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
-          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
           <FullPath>04_PO_header_AGG_preguntas.sql</FullPath>
         </FileNode>
         <FileNode Name="04_PO_header_AGG_soluciones.sql">
@@ -64,17 +64,17 @@
           <AssociatedConnUserName />
           <FullPath>04_PO_header_AGG_soluciones.sql</FullPath>
         </FileNode>
-        <FileNode Name="Cuenta tablas en DB.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
-          <AssociatedConnUserName>curso</AssociatedConnUserName>
-          <FullPath>Cuenta tablas en DB.sql</FullPath>
+        <FileNode Name="Cuenta_tablas_en_DB.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Cuenta_tablas_en_DB.sql</FullPath>
         </FileNode>
-        <FileNode Name="Tablas Ordenadas por cantidad Filas.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
-          <AssociatedConnUserName>curso</AssociatedConnUserName>
-          <FullPath>Tablas Ordenadas por cantidad Filas.sql</FullPath>
+        <FileNode Name="Tablas_Ordenadas_por_cantidad_Filas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Tablas_Ordenadas_por_cantidad_Filas.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
