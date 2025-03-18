@@ -1,0 +1,57 @@
+﻿Pais_PK;Continente_FK;Pais_nombre
+AGO;1;Angola
+ARG;2;Argentina
+BRA;2;Brasil
+AUS;3;Australia
+AUT;4;Austria
+BEL;4;Bélgica
+CAN;2;Canadá
+CHE;4;Suiza
+CHL;2;Chile
+CHN;5;China
+CMR;1;Camerún
+COL;2;Colombia
+CRI;2;Costa Rica
+CZE;4;República Checa
+DEU;4;Alemania
+DOM;2;República Dominicana
+DZA;1;Argelia
+ECU;2;Ecuador
+EGY;1;Egipto
+ESP;4;España
+FIN;4;Finlandia
+FRA;4;Francia
+GBR;4;Reino Unido
+GRC;4;Grecia
+GTM;2;Guatemala
+HUN;4;Hungría
+IDN;5;Indonesia
+IND;5;India
+IRL;4;Irlanda
+IRN;5;Irán
+ISR;5;Israel
+ITA;4;Italia
+JPN;5;Japón
+KEN;1;Kenia
+KOR;5;República de Corea
+MEX;2;México
+MYS;5;Malasia
+NGA;1;Nigeria
+NOR;4;Noruega
+PER;2;Perú
+PHL;5;Filipinas
+POL;4;Polonia
+PRT;4;Portugal
+RUS;5;Rusia
+SDN;1;Sudán
+SVK;4;Eslovaquia
+SWE;4;Suecia
+THA;5;Tailandia
+TUR;5;Turquía
+TZA;1;Tanzania
+UKR;4;Ucrania
+USA;2;Estados Unidos
+VEN;2;Venezuela
+YEM;5;Yemen
+ZAF;1;Sudáfrica
+NZL;3;Nueva Zelanda

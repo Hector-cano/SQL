@@ -34,6 +34,24 @@
           <AssociatedConnUserName />
           <FullPath>02_CabecerasFacturas.sql</FullPath>
         </FileNode>
+        <FileNode Name="03_PO_header_preguntas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <FullPath>03_PO_header_preguntas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_PO_header_soluciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <FullPath>03_PO_header_soluciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_PO_header_AGG_Explicacion.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <FullPath>04_PO_header_AGG_Explicacion.sql</FullPath>
+        </FileNode>
         <FileNode Name="04_PO_header_AGG_preguntas.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
@@ -46,17 +64,17 @@
           <AssociatedConnUserName />
           <FullPath>04_PO_header_AGG_soluciones.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQL25p.purchaseorder.sql">
+        <FileNode Name="Cuenta tablas en DB.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName>curso</AssociatedConnUserName>
-          <FullPath>SQL25p.purchaseorder.sql</FullPath>
+          <FullPath>Cuenta tablas en DB.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLmuestracolumnas.sql">
+        <FileNode Name="Tablas Ordenadas por cantidad Filas.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName>curso</AssociatedConnUserName>
-          <FullPath>SQLmuestracolumnas.sql</FullPath>
+          <FullPath>Tablas Ordenadas por cantidad Filas.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

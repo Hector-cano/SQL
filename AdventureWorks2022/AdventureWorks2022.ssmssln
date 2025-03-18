@@ -5,13 +5,16 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Basicos una tabla", "Basicos una tabla\Basicos una tabla.ssmssqlproj", "{97152F30-6263-4D45-945E-8B7CFD6D502A}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Appol", "Appol\Appol.ssmssqlproj", "{DE2CB4EE-C07E-4315-BBF5-5725DC928464}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AD35772E-B4FA-4B00-8BDA-8556AD73D553}.Default|Default.ActiveCfg = Default
 		{97152F30-6263-4D45-945E-8B7CFD6D502A}.Default|Default.ActiveCfg = Default
+		{4F61D030-B12B-4057-B1B6-154CDF2A005C}.Default|Default.ActiveCfg = Default
+		{DE2CB4EE-C07E-4315-BBF5-5725DC928464}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

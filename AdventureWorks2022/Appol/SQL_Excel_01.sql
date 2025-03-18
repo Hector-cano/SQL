@@ -1,0 +1,2 @@
+Create Database Apol_Excel_01
+COLLATE Modern_Spanish_CS_AS

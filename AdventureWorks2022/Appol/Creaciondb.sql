@@ -1,1 +1,2 @@
-Create Database Appol;
+Create Database Appol
+
